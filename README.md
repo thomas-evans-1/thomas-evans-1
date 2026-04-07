@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey, I'm Thomas 👋
 
-<!--
-**thomas-evans-1/thomas-evans-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub: https://github.com/thomas-evans-1   
+LinkedIn: www.linkedin.com/in/thomas-evans-316a822a9  
+Substack: https://substack.com/@thomasevans01
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+First-year Computer Science & Mathematics Student @ Durham University.  
+I'm interested in how theoretical mathematics underpins the systems we use everyday.  
+Still early in my journey, learning fast and driven by curiosity.  
+
+> "more maths = more fun"
+
+## Tech I'm working with
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Visual Basic](https://img.shields.io/badge/Visual_Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+## What's here?
+
+This profile is a work in progress, much like me!  
+I'm adding projects and tools as I build them. Expect coursework explorations, mathematical coding, and small personal tools!
+
+*Open to collaboration on beginner-friendly projects · Always happy to connect with other maths/CS students*
